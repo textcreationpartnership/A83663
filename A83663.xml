@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The debates of the House of Commons assembled in Parliament, touching His Majesties concessions and answers upon the treaty. With their votes concerning their instructions given to Col. Hamond Governour of the Isle of Wight, for security of his Majesties person: as also a letter of the commons to the Lord General Fairfax, acquainting him with the contradiction of his orders to Col Ewers, to their instructions and resolutions. Together with His Majesties last speech to the Lords-Commissioners at their departure from the Isle of Wight. / Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83663</idno>
+            <idno type="STC">Wing E2547</idno>
+            <idno type="STC">Thomason E475_21</idno>
+            <idno type="STC">ESTC R205403</idno>
+            <idno type="EEBO-CITATION">99864799</idno>
+            <idno type="PROQUEST">99864799</idno>
+            <idno type="VID">117031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117031)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The debates of the House of Commons assembled in Parliament, touching His Majesties concessions and answers upon the treaty. With their votes concerning their instructions given to Col. Hamond Governour of the Isle of Wight, for security of his Majesties person: as also a letter of the commons to the Lord General Fairfax, acquainting him with the contradiction of his orders to Col Ewers, to their instructions and resolutions. Together with His Majesties last speech to the Lords-Commissioners at their departure from the Isle of Wight. / Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 6th".</note>
+                  <note>An unauthorized publication -- Cf. Lambert.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I).</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117031:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE</hi> DEBATES OF THE Houſe of Commons Aſſembled in Parliament, touch<g ref="char:EOLhyphen"/>ing His Majeſties Conceſſions and Anſwers upon the TREATY.</p>
+            <p>With their VOTES concerning their In<g ref="char:EOLhyphen"/>ſtructions given to Col. <hi>Hamond</hi> Governour of the Iſle of <hi>Wight,</hi> for ſecurity of his Majeſties PERSON:</p>
+            <p>
+               <hi>As alſo</hi> A LETTER of the Commons to the Lord General <hi>Fairfax,</hi> acquainting him with the contradiction of his Orders to Col <hi>Ewers,</hi> to their Inſtructions and Reſolutions.</p>
+            <p>
+               <hi>Together with</hi> His Majeſties laſt SPEECH to the Lords-Commiſſioners at their departure from the Iſle of <hi>Wight.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>R. Smithurſt.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:117031:2"/>
+            <head>THE VOTES OF THE Houſe of Commons aſſembled at <hi>Weſtminſter,</hi> concerning their late <hi>Inſtru<g ref="char:EOLhyphen"/>ctions</hi> given to Col. HAMMOND Governour of the Iſle of VVIGHT.</head>
+            <p>THis day the Houſe of Commons received a Letter from Colonell <hi>Hammond,</hi> Governor of the Iſle of <hi>Wight,</hi> brought by Major <hi>Cromwell,</hi> and one encloſed from the Gene<g ref="char:EOLhyphen"/>rall, requiring him to attend his Excellency at the Head-quarters; And that Colonell <hi>Ewer</hi> was appointed to take the command of His Majeſty there.</p>
+            <p>The Commons had debate hereupon, and
+<pb n="4" facs="tcp:117031:3"/>Voted that Colonell <hi>Hammond</hi> ſhould be <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſtay in the Iſle of <hi>Wight,</hi> and attend his Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rge there till further Order: And that his Excellency ſhould be acquain<g ref="char:EOLhyphen"/>ted with this Vote. They likewiſe Voted to ſend a Letter to the Lord Admirall, to require him to ſend ſome Ships for ſecurity of the Iſle of <hi>Wight,</hi> with Orders that they obey the Commands of Colonell <hi>Ham<g ref="char:EOLhyphen"/>mond.</hi>
+            </p>
+            <p>A Meſſenger came laſt night to <hi>Windſor</hi> from the Iſle of <hi>Wight,</hi> who brought word that Colonell <hi>Ewer</hi> had the cuſtody of his Majeſty, and that Col. <hi>Hammond</hi> was on his way to <hi>Windſor.</hi>
+            </p>
+            <p>A Letter this day came from Colonell <hi>Hammond</hi> from <hi>Farnham</hi> Caſtle, with a Co<g ref="char:EOLhyphen"/>pie of the Orders from the Generall Coun<g ref="char:EOLhyphen"/>cell of the Army; and their Letter to Col. <hi>Ewers</hi> and others, for ſecuring His Majeſties perſon in the Iſle of <hi>Wight.</hi>
+            </p>
+            <p>Ordered, That a Letter ſhould be forth<g ref="char:EOLhyphen"/>with ſent to his Excellency, to acquaint him that theſe Orders and Inſtructions from him to Colonell <hi>Ewers,</hi> for ſecuring
+<pb n="5" facs="tcp:117031:3"/>His Majeſties perſon in the Iſle of <hi>Wight,</hi> are contrary to their Reſolutions and In<g ref="char:EOLhyphen"/>ſtructions given to Colonell <hi>Hammond,</hi> and that it is the pleaſure of the Houſe, That his Excellency recall the ſaid Orders, and that Colonell <hi>Hammond</hi> be ſet at liberty to attend his Charge in the Iſle of <hi>Wight.</hi>
+            </p>
+            <p>A Letter from his Excellency, was re<g ref="char:EOLhyphen"/>ported from the Committee of the Army, wherein his Excellency takes notice, that they intend not to furniſh him with any Moneys for contingencies, which of neceſ<g ref="char:EOLhyphen"/>ſity muſt be had for pay of Meſſengers, and other daily incident Charges to the Army, and therefore his Excellency muſt be forc'd thereby to receive moneys for this purpoſe out of the Collectors and Receivers hands, where he can find, if ſpeedy courſe be not taken to ſupply him.</p>
+            <p>The Houſe Ordered hereupon, That it ſhould be referred to the Committee of the Army to take ſuch courſe as they ſhall think fit, for pay of the Arrea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Army.</p>
+            <pb n="6" facs="tcp:117031:4"/>
+            <p>Major <hi>Cromwell</hi> returned this day with Letters further from Colonell <hi>Hammond,</hi> acquainting the Houſe of his being come to <hi>Windſor,</hi> and there detained, and ſo can<g ref="char:EOLhyphen"/>not act as to the Order of Parliament: That Colonell <hi>Ewers</hi> hath the command of His Majeſty in the Iſle of <hi>Wight.</hi> The Houſes had a Conference hereupon, the Lords preſ<g ref="char:EOLhyphen"/>ſing the buſineſs to be taken into ſpeedy conſideration.</p>
+            <p>The Houſe this day heard the Report of the Commiſsioners from the Iſle of <hi>Wight,</hi> of His Majeſties ſeverall Conceſ<g ref="char:EOLhyphen"/>ſions, as you have had them formerly in Order, which was read twice over, and the greateſt part of the day ſpent in debate thereof.</p>
+            <p>A bout two of the Clock in the afternoon they came to the queſtion, whether they ſhould now debate, whether His Majeſties Anſwers and Conceſsions reported by them are ſatisfactory, or unſatisfactory, and it was reſolved in the Negative, That they would not then debate it further, or the
+<pb n="7" facs="tcp:117031:4"/>queſtion be put, but that the debate thereof ſhould be reſumed to morrow morning at nine of the Clock</p>
+            <p>Mr. Speaker according to the Order of the Houſe, gave the Lord <hi>Wenman,</hi> Mr. <hi>Hollis,</hi> and Mr. <hi>Pierepoint,</hi> three of the Commiſſioners, who came laſt from the Treaty, thanks for their great pains and care in managing of the Treaty.</p>
+            <p>This day the Houſe reſumed the debate, according to Order, of the Kings Conceſ<g ref="char:EOLhyphen"/>ſions and Anſwers upon the Treaty; the debate was very high, and took up the whole day, yet they came to no concluſion, or any Vote paſſed, but put off the further debate untill Munday morning.</p>
+         </div>
+         <div type="speech">
+            <pb n="8" facs="tcp:117031:5"/>
+            <head>
+               <hi>His Majeſties laſt Speech to the Lords-Com<g ref="char:EOLhyphen"/>miſsioners at their departure from the Iſle of</hi> Wight.</head>
+            <p>MY LORDS, You are come to take your leave of me, and I beleeve we ſhall ſcarce ever ſee each other again: but Gods will be done; I thank God, I have made my peace with him, and ſhall without fear, undergo what he ſhall be pleaſed to ſuffer men to do unto me.</p>
+            <p>My Lords, you cannot but know, that in my fall and ruine you ſee your own, and that alſo neer to you; I pray God ſend you better friends then I have found.</p>
+            <p>I am fully informed of the whole carriage of the Plot againſt Me and Mine; and nothing ſo much afflicts me, as the ſenſe and feeling I have of the ſufferings of my Subjects, and the miſeries that hang over my three Kingdoms, drawn upon them by thoſe who (upon pretences of good) violently purſue their own Intereſts and ends.</p>
+            <argument>
+               <p>
+                  <hi>Theſe words his Majeſty delivered with much alacrity and cheerfulneſs, with a ſerene Countenance, and a carriage free from all diſturbance.</hi>
+               </p>
+               <p>
+                  <hi>Thus he parted with the Lords, leaving many tender Impreſsions (if not in them) in the ſtanders by.</hi>
+               </p>
+            </argument>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
